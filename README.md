@@ -17,21 +17,6 @@ Este proyecto en Java permite registrar un listado de personas (nombre y edad), 
 
 ---
 
-## 🚀 Ejecución
-
-Para ejecutar el proyecto:
-
-1. Compila el código:
-    ```bash
-    javac App.java Persona.java
-    ```
-2. Ejecuta la aplicación:
-    ```bash
-    java App
-    ```
-
----
-
 ## 🧑‍💻 Ejemplo de Entrada y Salida
 
 ```plaintext
